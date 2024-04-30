@@ -1,12 +1,21 @@
 body {background-color:rgb(57, 78, 97);
 }
+h1 {color: aliceblue; text-align: center;
+}
+h2 {color: aliceblue;
+}
 #ima1 {margin-left: 30%;
+}
+h3 {color: lawngreen;
 }
 h2 {border-style: solid;
       border-color: black;
       border-width: 4px;
 }
-h1 {text-align: center;
+h3 {border-style: solid;
+      border-color: lawngreen;
+      border-width: 4px;
 }
+
 
       
